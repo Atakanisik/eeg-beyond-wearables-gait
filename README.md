@@ -2,8 +2,6 @@
 
 Analysis code and result files for:
 
-> Işık A, Işık SV. *Pre-landing dry-electrode EEG adds no stride-level information about landing mechanics beyond wearable motion and muscle sensors: a confirmatory analysis with equivalence testing.* Manuscript in preparation (target: PLOS ONE).
-
 **Result in one sentence.** In 33 held-out participants, adding EEG relative band power (400-100 ms before heel strike) to IMU and EMG features did not improve prediction of peak vertical ground reaction force, loading rate or early-stance knee flexion (median ΔR² 0.0000 / 0.0000 / -0.0002); gains of ΔR² ≥ 0.01 were excluded by equivalence tests (Holm-corrected p < 0.001).
 
 ## Data
@@ -55,10 +53,6 @@ CELL 2 in `colab/N0_colab_cells.py` downloads the dataset from the PhysioNet ope
 ## Software
 
 Google Colab, Python 3.13.16, NumPy 2.1.3, SciPy 1.16.3, pandas 2.2.3, scikit-learn 1.6.1, Matplotlib 3.10.0.
-
-## AI assistance
-
-Generative AI (Claude, Anthropic) assisted with analysis code, statistical checks, figure preparation and language editing. The authors designed the study, reviewed all code and results, and take full responsibility for the content.
 
 ## Licence
 
