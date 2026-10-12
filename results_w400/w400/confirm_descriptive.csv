@@ -1,0 +1,7 @@
+item,target,n_subjects,dR2_median,ci_lo,ci_hi,p_wilcoxon_uncorrected,rho,p_rho,plan_sha256
+broadband-power model,T1_peak_fz,33,0.0,-0.0009,0.0005,0.6312136590713635,,,9f203b375d640595
+broadband-power model,T2_loading_rate,33,0.0018,-0.0006,0.0037,0.0913343847496435,,,9f203b375d640595
+broadband-power model,T3_knee_flex_early,33,-0.0005,-0.0015,0.002,0.6042944275541231,,,9f203b375d640595
+dose-response: artifact index vs primary delta R2,T1_peak_fz,33,,,,,-0.194,0.2805691827387233,9f203b375d640595
+dose-response: artifact index vs primary delta R2,T2_loading_rate,33,,,,,-0.267,0.13250520694814535,9f203b375d640595
+dose-response: artifact index vs primary delta R2,T3_knee_flex_early,33,,,,,0.143,0.4260114292954966,9f203b375d640595

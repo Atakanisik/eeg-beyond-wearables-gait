@@ -1,0 +1,4 @@
+target,n_strides,outliers_dropped,M0_R2_median,M0_R2_min,dR2_EEGrel_median,dR2_EEGrel_IQR,p_wilcoxon,p_shuffled_EEG,dR2_broadband_median,rho_dR2_vs_artifact
+T1_peak_fz,3041,5,0.0678,-0.153,-0.0047,-0.0100..0.0049,0.7292,0.5686,-0.0029,-0.407
+T2_loading_rate,3042,4,0.2192,-0.1,-0.0081,-0.0185..0.0211,0.5484,0.4902,0.0018,0.095
+T3_knee_flex_early,3043,3,0.1484,-0.434,-0.0125,-0.0263..0.0109,0.8371,0.2353,-0.0073,-0.121

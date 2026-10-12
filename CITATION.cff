@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper and the dataset."
+title: "Pre-landing dry EEG and landing mechanics: analysis code and results"
+version: 1.0.0
+date-released: 2026-10-12
+license: MIT
+repository-code: "https://github.com/Atakanisik/eeg-beyond-wearables-gait"
+authors:
+  - family-names: "Işık"
+    given-names: "Atakan"
+    affiliation: "Department of Biomedical Engineering, Başkent University"
+    email: "atakani@baskent.edu.tr"
+  - family-names: "Işık"
+    given-names: "Selin Vulga"
+    affiliation: "Department of Biomedical Engineering, Başkent University"
+    email: "selinv@baskent.edu.tr"
+references:
+  - type: dataset
+    title: "A multimodal gait dataset of brain activity, muscle activity, kinematics and ground forces in young adults (version 1.0.0)"
+    authors:
+      - family-names: "Katmah"
+        given-names: "Rateb"
+      - family-names: "AlShehhi"
+        given-names: "Aamna"
+      - family-names: "Kosaji"
+        given-names: "Doua"
+      - family-names: "Al-Rahmani"
+        given-names: "Nour"
+      - family-names: "Abdullah"
+        given-names: "Muhammad"
+      - family-names: "Hulleck"
+        given-names: "Abdul Aziz Vaqar"
+      - family-names: "Khalaf"
+        given-names: "Kinda"
+    publisher:
+      name: "PhysioNet"
+    year: 2026
+    doi: "10.13026/r0ea-7161"

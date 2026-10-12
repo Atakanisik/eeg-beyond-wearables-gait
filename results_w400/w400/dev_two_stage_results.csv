@@ -1,0 +1,7 @@
+variant,target,n_strides,M0_R2_median,dR2_median,dR2_IQR,p_wilcoxon,p_circular,null_median
+trial-centered,T1_peak_fz,3041,0.0678,-0.0003,-0.0021..0.0030,0.6196,0.902,-0.0
+trial-centered,T2_loading_rate,3042,0.2192,0.0015,-0.0008..0.0078,0.1788,0.0784,-0.0
+trial-centered,T3_knee_flex_early,3043,0.1484,0.0031,-0.0055..0.0063,0.3574,0.0588,-0.0
+stride-to-stride,T1_peak_fz,2974,0.0321,0.0016,-0.0056..0.0095,0.2708,0.0392,-0.0026
+stride-to-stride,T2_loading_rate,2972,0.2141,0.0006,-0.0077..0.0178,0.2508,0.0784,-0.0019
+stride-to-stride,T3_knee_flex_early,2975,0.1234,0.0011,-0.0108..0.0033,0.7869,0.0784,-0.0017

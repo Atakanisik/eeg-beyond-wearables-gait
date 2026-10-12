@@ -1,0 +1,16 @@
+target,by,level,n_subjects,dR2_median,share_gain,p_wilcoxon_uncorrected
+T1_peak_fz,leg,L,33,-0.0006,0.36,0.9116
+T1_peak_fz,leg,R,33,0.0004,0.55,0.208
+T1_peak_fz,speed,0.5,29,-0.0009,0.38,0.8893
+T1_peak_fz,speed,0.75,25,0.0002,0.52,0.4163
+T1_peak_fz,speed,1.0,23,-0.0002,0.48,0.5534
+T2_loading_rate,leg,L,33,0.0006,0.52,0.4719
+T2_loading_rate,leg,R,33,-0.0,0.48,0.5421
+T2_loading_rate,speed,0.5,29,0.0002,0.55,0.5
+T2_loading_rate,speed,0.75,25,0.0,0.52,0.406
+T2_loading_rate,speed,1.0,23,-0.0003,0.48,0.8427
+T3_knee_flex_early,leg,L,33,-0.0019,0.45,0.8349
+T3_knee_flex_early,leg,R,33,0.0014,0.55,0.349
+T3_knee_flex_early,speed,0.5,29,-0.0007,0.45,0.6009
+T3_knee_flex_early,speed,0.75,25,0.0022,0.64,0.2539
+T3_knee_flex_early,speed,1.0,23,-0.0008,0.39,0.6995
